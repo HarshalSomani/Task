@@ -6,9 +6,11 @@ User Login:
         User navigates to the login page.
         User enters credentials and submits the form.
         Depending on the credentials, the user is navigated to either the admin dashboard or employee dashboard.
+        
 Admin Dashboard:
     Admin sees a list of employees and can add or delete employees.
     Admin can log out, navigating back to the home page.
+    
 Employee Dashboard:
     Employee sees their details in a card format.
     Employee can log out, navigating back to the home page.
